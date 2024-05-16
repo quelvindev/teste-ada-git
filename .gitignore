@@ -1,2 +1,8 @@
 # Ignore a pasta de conexão
 conn/
+
+# Ignorar imagem
+icones.png
+
+# Ignorar todos arquivos por extenção
+*.txt
